@@ -8,6 +8,6 @@ two ways:
 > click console  
 > paste this code
 ### download way
->download index and script
->place in a folder
->run index.html
+>download index and script  
+>place in a folder  
+>run index.html  
