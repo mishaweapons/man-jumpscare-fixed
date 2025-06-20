@@ -1,5 +1,5 @@
 # man-jumpscare-fixed
-scary (scary) run in maths pathway for optimal performance (otherwise it prob won't work)
+scary (scary) run in compass for optimal performance (for some reason)
 ## how do i use this?
 two ways:
 ### easy way
